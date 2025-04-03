@@ -1,5 +1,7 @@
 # blog-apiki
 
+Fiz essa aplicação headless no final de 2022, para um desafio para uma vaga na epoca...
+
 ## Build Setup
 
 ```bash
@@ -17,8 +19,6 @@ $ npm run start
 $ npm run generate
 ```
 
-58 / 5.000
-Resultados de tradução
 Para uma explicação detalhada sobre como as coisas funcionam, confira a[documentação do Nuxt.js](https://nuxtjs.org).
 
 ## Diretórios 
